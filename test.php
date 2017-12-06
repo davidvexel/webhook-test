@@ -4,3 +4,9 @@ if (condition) {
 	# code...
 }
 
+/**
+ * Test
+ */
+function new_function($param) {
+	echo 'Howdy';
+}
