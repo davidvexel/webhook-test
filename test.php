@@ -10,3 +10,6 @@ if (condition) {
 function new_function($param) {
 	echo 'Howdy';
 }
+
+/** New constant **/
+define( 'TEST', true );
